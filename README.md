@@ -4,24 +4,37 @@ The Procratination Tracker is a web based application designed to help keep trac
 
 ### **Features**
 
-* User sign up, login and sign out functions
-* Save and view tasks and task components
-* Set due date for project
-* Assign any number of "To be complete" components to any project
-* Dynamic progress bar according to how many tasks are complete within the project
-* Add to calender function via Google, iCal or Ooutlook 
+- User sign up, login and sign out functions
+- Save and view tasks and task components
+- Set due date for project
+- Assign any number of "To be complete" components to any project
+- Dynamic progress bar according to how many tasks are complete within the project
+- Add to calender function via Google, iCal, Outlook or Yahoo!
+
+### **Useage**
+
+Deployed at : https://procrastination-tracker.herokuapp.com/
+
+![Welcome Page](./Images/welcome-page.png)
+
+
+![Project Dashbaord](./Images/project-dashboard.png)
+
+
+![Project Profile](./Images/project-profile-display.png)
+
 
 
 ### **Technologies**
 
-* HTML
-* CSS
-* BootStrap
-* Node js
-* Express js
-* Express Handlebars package
-* Add2Calender package
-* Sequalize package
+- HTML
+- CSS
+- BootStrap
+- Node js
+- Express js
+- Express Handlebars package
+- Add2Calender package
+- Sequalize package
 
 ### **Future Development**
 
@@ -31,8 +44,12 @@ Adding user SMS functionality for reminders and prompts. Feedback from SMS promp
 
 Ranking reward system where each user can see their individual rank grade according to the number of components and tasks complete over time. Users must be completing projects and tasks in order to maintain or increase level
 
+### **Contributing**
+Created by Madeleine O'Dea, Sona Shrestha, Joshua Rhymer Bernardo and Richard Hopkins
+
 ### **Links**
 
-[GitHub Repository](https://github.com/RichardtHopkins/Procrastination-Tracker) |
-[GitHub Page](https://RichardtHopkins.github.io/Procrastination-Tracker/)
+[GitHub Repository](https://github.com/madsterest/procrastination-tracker)
+
+For more examples of my work, please visit my GitHub at [madsterest](https://github.com/madsterest) or contact me at odea.madeleine@gmail.com
 
